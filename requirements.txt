@@ -1,0 +1,10 @@
+# Debate Arena Bot - 依存パッケージ
+
+# Discord.py（公式ライブラリ）
+discord.py>=2.3.0
+
+# 環境変数管理
+python-dotenv>=1.0.0
+
+# 日時処理
+python-dateutil>=2.8.2
